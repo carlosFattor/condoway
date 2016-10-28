@@ -1,0 +1,6 @@
+{
+  "api.name": "account",
+  "store.http.address": "condoway-account",
+  "store.http.port": 8082,
+  "host": "mongo"
+}

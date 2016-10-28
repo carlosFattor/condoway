@@ -1,0 +1,18 @@
+= Cheatsheets
+
+[[Account]]
+== Account
+
+++++
+ Created by Carlos on 10/12/2016.
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[roles]]`roles`|`Array of link:enums.html#Roles[Roles]`|-
+|[[userID]]`userID`|`String`|-
+|===
+

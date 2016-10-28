@@ -1,0 +1,3 @@
+com\guildacode\account\UserAccountVerticle.class
+com\guildacode\account\api\RestUserAccountAPIVerticle.class
+com\guildacode\account\impl\UserAccountServiceImpl.class

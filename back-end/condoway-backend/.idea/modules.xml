@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condoway-account/condoway-account.iml" filepath="$PROJECT_DIR$/condoway-account/condoway-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condoway-backend.iml" filepath="$PROJECT_DIR$/condoway-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condoway-commons/condoway-commons.iml" filepath="$PROJECT_DIR$/condoway-commons/condoway-commons.iml" />
+    </modules>
+  </component>
+</project>
